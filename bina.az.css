@@ -1,0 +1,285 @@
+/*.topline{
+    height: 120px;
+    background-color: red;
+} */
+
+.topline1{
+    display: flex;
+    align-items: center;
+    align-items: center;
+    width: 1345;
+    height: 45px;
+    background-color:#727272 ;
+}
+.elaqe{
+     margin-left: 540px;
+     width: 320px;
+}
+.elaqetext{
+    color: #c2bdb7;
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.language{
+    margin-left: 50px;
+    width: 50px;
+}
+.languagetext{
+    color: #f1eeea;
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.favorite{
+    margin-left: 50px;
+    width: 60px;
+}
+.favoritetext{
+    color: #f1eeea; 
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.giris{
+    margin-left: 50px;
+    width: 50px;
+}
+.giristext{
+    color:#f1eeea; 
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.topline2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1350px;
+    height: 48px;
+    background-color:#936447;
+}
+.logo{
+    width: 120px;
+}
+.logotext{
+    font-size: 30px;
+    color: white;
+}
+.A1{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 48px;
+    color: #F1EEEA;
+    margin-left: 50px;
+}
+.K2{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 48px;
+    color: #F1EEEA;
+    margin-left: 10px;
+
+}
+.Agent3{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 48px;
+    color: #F1EEEA;
+    margin-left: 10px;
+}
+.Y4{
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    height: 48px;
+    color: #F1EEEA;
+    margin-left: 10px;
+}
+.B5{
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    height: 48px;
+    color: #F1EEEA;
+    margin-left: 10px;
+}
+.button1{
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    height: 48px;
+    background-color: #7ed321;
+    color: #F1EEEA;
+    border: none;
+    font-size:22px ;
+    margin: 30px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.A1:hover{background-color: #AD7A5A;transition: .3s ease;}
+.K2:hover{background-color: #AD7A5A;transition: .3s ease;}
+.Agent3:hover{background-color: #AD7A5A;transition: .3s ease;}
+.Y4:hover{background-color: #AD7A5A;transition: .3s ease;}
+.B5:hover{background-color: #AD7A5A;transition: .3s ease;}
+
+.topline3{
+    display: flex;
+    align-items: center;
+    width: 1350px;
+    height: 80px;
+    background-color: #ad7a5a;
+}
+.al{
+    width: 120px;
+    height: 50px;
+    font-size: 15px;
+    color: black;
+    margin-left: 165px;
+    padding-left: 10px;
+}
+.ev{
+    width: 120px;
+    height: 50px;
+    font-size: 15px;
+    color: black;
+    padding-left: 10px;
+    margin-left: 1px;
+}
+.room{
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    color: black;
+    padding-left: 10px;
+    margin-left: 1px;
+}
+.AZN{
+    display: flex;
+    align-items: center;
+}
+
+.price{
+    width: 155px;
+    height: 44px;
+    font-size: 15px;
+    color: black;
+    padding-left: 10px;
+    margin-left: 1px;
+}
+.city{
+    width: 130px;
+    height: 50px;
+    font-size: 15px;
+    color: black;
+    padding-left: 10px;
+    margin-left: 1px;
+}
+.search{
+    width: 150px;
+    height: 48px;
+    font-size: 15px;
+    background-color: white;
+    color: blue;
+    padding-left: 10px;
+    margin-left: 1px;
+}
+.button2{
+    width: 130px;
+    height: 50px;
+    font-size: 15px;
+    background-color: blue;
+    color: black;
+    padding-left: 10px;
+}
+
+.alishkiraye{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 750px;
+    height: 40px;
+    background-color: whitesmoke;
+}
+.orta1{
+    display: flex;
+    width: 50px;
+    height: 40px;
+    color: blue;
+
+}
+.orta2{
+    display: flex;
+    width: 50px;
+    height: 40px;
+    color: blue;
+
+}
+.topline4{
+        display: flex;
+        margin-left: 165px;
+}
+.bolmeler1{
+    width: 750px;
+    display: flex;
+    margin: 2px 0 0 18px;
+}
+.bolmeler{
+    background-color: white;
+    width: 200px;
+    height: 240px;
+    margin: 0 0 0 2px;
+    padding: 0 0 0 20px;
+}
+.gun{
+    display: flex;
+    align-items: center;
+    width: 220px;
+    height: 67px;
+    background-color: white;
+    margin: 10px 20px 5px 20px;
+}
+.guntext{
+    color: black;
+    font-size: 14px;
+}
+.vipelan{
+    display: flex;
+    align-items: center;
+    width: 1010px;
+    height: 67px;
+    background-color: whitesmoke;
+    padding: 0 0 0 20px;
+    margin-left: 150px;
+}
+.vipelantxt{   
+    font-size: 20px;
+    color: black;
+}
+.elanlar{
+    display: flex;
+}
+.elanlarimg{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin: 20px 0px 0 17px;
+}
+.sekil1{
+    position: relative;
+    width: 150px;
+  }
+  .middle {
+    position: absolute;
+    top: 128px;
+    left: 50px;
+    transform: translate(-50px,-17px);
+    text-align: center;
+  }
+  .text {
+    width: 80px;
+   height: 10px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 13px;
+    padding: 16px 10px;
+  }
